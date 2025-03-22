@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "formidable": "^3.5.0",
+    "node-fetch": "^3.3.0",
+    "formdata-node": "^4.0.1",
+    "undici": "^5.25.0"
+  }
+}
